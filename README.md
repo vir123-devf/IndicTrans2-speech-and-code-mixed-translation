@@ -159,7 +159,7 @@ All experiments (baseline and LoRA) are evaluated using:
 📄 File:
 
 ```
-Assignment_Report (TASK-1,2,3).tex
+Assignment_Report (TASK-1,2,3).pdf
 ```
 
 ---
